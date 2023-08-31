@@ -1,0 +1,1 @@
+{"content": "\n> cd YogaTime/frontend\n\n\n> npx create-react-app .\nThe directory . contains files that could conflict:\n\n  App.js\n\nEither try using a new directory name, or remove the files listed above.\n\n", "name": "bash", "role": "function", "conversation_id": "root.0e95a", "id": "b3e21"}

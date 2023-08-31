@@ -1,0 +1,1 @@
+{"response": {"role": "assistant", "content": "", "function_call": {"name": "bash", "arguments": "{\n  \"commands\": [\"pytest ./YogaTime/backend/test_main.py\"]\n}"}}}

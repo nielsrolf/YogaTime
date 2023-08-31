@@ -1,0 +1,1 @@
+{"content": "\n> mkdir YogaTime\n\n\n> cd YogaTime\n\n\n> mkdir backend frontend\n\n\n> touch backend/main.py frontend/App.js\n\n", "name": "bash", "role": "function", "conversation_id": "root.0e95a", "id": "e4846"}

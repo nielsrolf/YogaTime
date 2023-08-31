@@ -1,0 +1,1 @@
+{"content": "", "function_call": {"name": "add_task", "arguments": "{\n  \"task\": {\n    \"id\": 3,\n    \"title\": \"Setup Frontend with React\",\n    \"description\": \"Setup the frontend for the YogaTime app using React.\",\n    \"priority\": 1,\n    \"status\": \"TODO\",\n    \"comments\": []\n  }\n}"}, "role": "assistant", "conversation_id": "root.0e95a", "id": "d8621"}

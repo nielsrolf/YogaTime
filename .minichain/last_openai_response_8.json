@@ -1,0 +1,1 @@
+{"response": {"role": "assistant", "content": "", "function_call": {"name": "add_task", "arguments": "{\n  \"task\": {\n    \"id\": 2,\n    \"title\": \"Setup Backend with FastAPI\",\n    \"description\": \"Setup the backend for the YogaTime app using FastAPI.\",\n    \"priority\": 1,\n    \"status\": \"TODO\",\n    \"comments\": []\n  }\n}"}}}

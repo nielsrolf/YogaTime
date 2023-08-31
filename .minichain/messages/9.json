@@ -1,0 +1,1 @@
+{"content": "", "function_call": {"name": "edit", "arguments": "{\n  \"path\": \"YogaTime/backend/main.py\",\n  \"start\": 0,\n  \"end\": 0,\n  \"code\": \"from fastapi import FastAPI\\n\\napp = FastAPI()\\n\\n@app.get('/')\\ndef read_root():\\n    return {'Hello': 'World'}\"\n}"}, "role": "assistant", "conversation_id": "root.0e95a", "id": "64e7c"}

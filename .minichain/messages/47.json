@@ -1,0 +1,1 @@
+{"content": "", "function_call": {"name": "bash", "arguments": "{\n  \"commands\": [\"cd YogaTime/backend\", \"pytest\"]\n}"}, "role": "assistant", "conversation_id": "root.0e95a", "id": "77452"}

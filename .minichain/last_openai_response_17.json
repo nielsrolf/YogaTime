@@ -1,0 +1,1 @@
+{"response": {"role": "assistant", "content": "", "function_call": {"name": "bash", "arguments": "{\n  \"commands\": [\n    \"cd YogaTime/frontend\",\n    \"npx create-react-app .\"\n  ]\n}"}}}

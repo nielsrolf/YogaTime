@@ -1,0 +1,1 @@
+{"response": {"role": "assistant", "content": "", "function_call": {"name": "add_task", "arguments": "{\n  \"task\": {\n    \"id\": 7,\n    \"title\": \"Implement Session Search and Booking\",\n    \"description\": \"Implement the functionality to search and book yoga sessions in the backend.\",\n    \"priority\": 2,\n    \"status\": \"TODO\",\n    \"comments\": []\n  }\n}"}}}

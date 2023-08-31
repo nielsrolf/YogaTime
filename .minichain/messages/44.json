@@ -1,0 +1,1 @@
+{"content": "\n> cd YogaTime/backend\n\n\n> pytest\ntimeout: failed to run command \u2018pytest\u2019: No such file or directory\n\n", "name": "bash", "role": "function", "conversation_id": "root.0e95a", "id": "bad0b"}

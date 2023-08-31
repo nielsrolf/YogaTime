@@ -1,0 +1,1 @@
+{"content": "", "function_call": {"name": "bash", "arguments": "{\n  \"commands\": [\"pytest ./YogaTime/backend/test_main.py\"]\n}"}, "role": "assistant", "conversation_id": "root.0e95a", "id": "a9a59"}

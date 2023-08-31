@@ -1,0 +1,1 @@
+{"response": {"role": "assistant", "content": "", "function_call": {"name": "add_task", "arguments": "{\n  \"task\": {\n    \"id\": 9,\n    \"title\": \"Write Tests for Backend\",\n    \"description\": \"Write tests for the backend of the YogaTime app.\",\n    \"priority\": 4,\n    \"status\": \"TODO\",\n    \"comments\": []\n  }\n}"}}}
