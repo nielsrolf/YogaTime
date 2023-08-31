@@ -1,0 +1,1 @@
+{"content": "", "function_call": {"name": "view", "arguments": "{\n  \"path\": \"./YogaTime/frontend/src/App.js\",\n  \"start\": 1,\n  \"end\": 100,\n  \"with_line_numbers\": true\n}"}, "role": "assistant", "conversation_id": "root.4c83a", "id": "8b34a"}

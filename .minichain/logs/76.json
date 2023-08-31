@@ -1,0 +1,1 @@
+{"content": "", "function_call": {"name": "edit", "arguments": "{\n  \"path\": \"./YogaTime/frontend/src/App.js\",\n  \"start\": 2,\n  \"end\": 2,\n  \"code\": \"import axios from 'axios';\\naxios.defaults.baseURL = 'http://localhost:8001';\"\n}"}, "role": "assistant", "conversation_id": "root.4c83a", "id": "db966"}

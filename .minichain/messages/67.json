@@ -1,0 +1,1 @@
+{"content": "", "function_call": {"name": "get_file_summary", "arguments": "{\n  \"path\": \"./App.js\"\n}"}, "role": "assistant", "conversation_id": "root.4c83a", "id": "01539"}
